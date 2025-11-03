@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "4yInKKHtjOw=",
+  "success": true,
+  "projectFilePath": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\50850\\.nuget\\packages\\managedwifi\\1.1.0\\managedwifi.1.1.0.nupkg.sha512",
+    "C:\\Users\\50850\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\50850\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\50850\\.nuget\\packages\\system.text.encoding.codepages\\9.0.10\\system.text.encoding.codepages.9.0.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0-windows7.0”还原包“managedwifi 1.1.0”。此包可能与项目不完全兼容。",
+      "projectPath": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj",
+      "libraryId": "managedwifi",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

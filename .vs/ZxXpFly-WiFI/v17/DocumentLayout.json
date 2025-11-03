@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\ZxXpFly-WiFI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|d:\\project\\zxxpfly-wifi\\zxxpfly-wifi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|solutionrelative:zxxpfly-wifi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|D:\\project\\ZxXpFly-WiFI\\zxxpfly-wifi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|solutionrelative:zxxpfly-wifi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|d:\\project\\zxxpfly-wifi\\zxxpfly-wifi\\zxxpfly-wifi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|solutionrelative:zxxpfly-wifi\\zxxpfly-wifi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|d:\\project\\zxxpfly-wifi\\zxxpfly-wifi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|solutionrelative:zxxpfly-wifi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|d:\\project\\zxxpfly-wifi\\zxxpfly-wifi\\wlanapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|solutionrelative:zxxpfly-wifi\\wlanapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|d:\\project\\zxxpfly-wifi\\zxxpfly-wifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}|ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj|solutionrelative:zxxpfly-wifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2401,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZxXpFly-WiFI",
+              "DocumentMoniker": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj",
+              "RelativeDocumentMoniker": "ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj",
+              "ToolTip": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj",
+              "RelativeToolTip": "ZxXpFly-WiFI\\ZxXpFly-WiFI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T15:07:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\Form1.cs",
+              "RelativeDocumentMoniker": "ZxXpFly-WiFI\\Form1.cs",
+              "ToolTip": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\Form1.cs",
+              "RelativeToolTip": "ZxXpFly-WiFI\\Form1.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAD4v4AAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:00:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\Program.cs",
+              "RelativeDocumentMoniker": "ZxXpFly-WiFI\\Program.cs",
+              "ToolTip": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\Program.cs",
+              "RelativeToolTip": "ZxXpFly-WiFI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:08:25.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\Form1.cs",
+              "RelativeDocumentMoniker": "ZxXpFly-WiFI\\Form1.cs",
+              "ToolTip": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ZxXpFly-WiFI\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:10:42.709Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ZxXpFly-WiFI\\Form1.Designer.cs",
+              "ToolTip": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\Form1.Designer.cs",
+              "RelativeToolTip": "ZxXpFly-WiFI\\Form1.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAD4v3QAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:08:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WlanApi.cs",
+              "DocumentMoniker": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\WlanApi.cs",
+              "RelativeDocumentMoniker": "ZxXpFly-WiFI\\WlanApi.cs",
+              "ToolTip": "D:\\project\\ZxXpFly-WiFI\\ZxXpFly-WiFI\\WlanApi.cs",
+              "RelativeToolTip": "ZxXpFly-WiFI\\WlanApi.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:46:22.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

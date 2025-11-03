@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZxXpFly-WiFI", "ZxXpFly-WiFI\ZxXpFly-WiFI.csproj", "{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Debug|ARM32.Build.0 = Debug|ARM32
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Debug|x86.ActiveCfg = Debug|x86
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Debug|x86.Build.0 = Debug|x86
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Release|ARM32.ActiveCfg = Release|ARM32
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Release|ARM32.Build.0 = Release|ARM32
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Release|x86.ActiveCfg = Release|x86
+		{62EFCAFF-3621-43B6-AEF1-E13B0FEA52FA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A0C0F58-5DCC-4962-BD68-59A60041FC1E}
+	EndGlobalSection
+EndGlobal
